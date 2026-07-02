@@ -45,7 +45,7 @@ Aplicação React para controle de despesas pessoais, integrada à API RESTful d
 
 ### 1. Backend (API)
 
-No projeto `personalExpenses/api-despesas-pessoais`:
+No Repositório do Backend - https://github.com/diegosilveira94/api-expenses:
 
 ```bash
 docker-compose up -d   # sobe o PostgreSQL
